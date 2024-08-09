@@ -704,6 +704,7 @@ footer .con{
     }
     .logo{
         display: flex;
+        padding:0;
     }
     .logo button{
         padding: 2px;
