@@ -695,3 +695,18 @@ footer .con{
 .foot{
     padding: 20px 0px;
 }
+@media(max-width:575px) {
+    .small{
+        font-size: 12px;
+    }
+    .hero_image{
+        /* margin-top: 20px; */
+    }
+    .logo{
+        display: flex;
+    }
+    .logo button{
+        padding: 2px;
+
+    }
+}
